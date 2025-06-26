@@ -1,0 +1,76 @@
+📊 Oasis Infobyte – Data Analytics Internship (June 2025)
+
+Welcome to my project repository for the virtual Data Analytics Internship at Oasis Infobyte.  
+Here, I’ll be uploading all the tasks I complete during this internship, including source code, visuals, and final reports.
+📁 Task 1: Exploratory Data Analysis (EDA) – Warehouse & Retail Sales
+📌 Objective:
+To analyze the sales performance of various suppliers and item types across retail and warehouse channels using a real-world dataset.
+📂 Dataset Used:
+Name: Warehouse_and_Retail_Sales.csv  
+Columns Included:
+- YEAR  
+- MONTH  
+- SUPPLIER  
+- ITEM CODE  
+- ITEM DESCRIPTION  
+- ITEM TYPE  
+- RETAIL SALES  
+- RETAIL TRANSFERS  
+- WAREHOUSE SALES 
+ 🔍 Process Followed:
+
+1. Data Cleaning:
+   - Removed missing values (if any)
+   - Checked and dropped duplicate rows
+
+2. EDA (Exploratory Data Analysis):
+   - Analyzed total retail and warehouse sales
+   - Grouped data by supplier and item type
+   - Identified top contributors to sales
+
+3. Visualization:
+   - Created bar plots using Seaborn and Matplotlib
+   - Top 10 Suppliers by Warehouse Sales
+   - Item Type–wise Retail Sales
+
+4. Insights Generation:
+   - Observed sales trends and supplier dominance
+   - Used 80/20 logic to derive business conclusions
+
+📸 Sample Visualization:
+> Top 10 Suppliers by Warehouse Sales
+
+[Top Suppliers]top_10_suppliers.png.png
+📌 Key Insights:
+
+- Crown Imports is the leading supplier with over **1.6 million units** in warehouse sales.
+- Top 3 suppliers (Crown Imports, Miller Brewing Company, Anheuser Busch Inc) dominate the distribution chain.
+- There is a sharp drop in sales volume after the top 4 suppliers, indicating a **skewed distribution**.
+- The pattern resembles the **Pareto Principle (80/20 Rule)** — a small group of suppliers contributes to the majority of sales.
+
+📄 Final Report:
+🔗 [Download]Task_1_EDA_Warehouse_Sales - Colab.pdf 
+ 🛠️ Tools & Libraries Used:
+- Python 🐍
+- Google Colab
+- Pandas
+- Matplotlib
+- Seaborn
+
+✨ About Me
+
+Hi, I’m Astha — a BCA student passionate about Data Analytics and visualization.  
+Currently learning by doing hands-on tasks during my internship at Oasis Infobyte.
+
+📫 Connect with me on [LinkedIn](https//:www.linkedin.com/in/astha-gabhane-b5b508290/)  
+🧠 Let’s grow together through code and data!
+✅ Upcoming Tasks
+
+- [ ] Task 2 – Sales Dashboard
+- [ ] Task 3 – Customer Segmentation
+- [ ] Task 4 – Predictive Sales Insights (if available)
+
+---
+
+🌟 *Thank you for visiting my internship project repo! 
+⭐ Don’t forget to Star this repo if you find it useful.

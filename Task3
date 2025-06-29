@@ -1,0 +1,5 @@
+Sentiment Analysis using NLP
+- Used Twitter dataset to classify sentiment
+- Preprocessing: stopwords, stemming
+- Algorithm: Naive Bayes
+- Tools: Python, NLTK, Scikit-learn

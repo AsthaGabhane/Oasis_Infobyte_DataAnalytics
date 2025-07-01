@@ -1,0 +1,31 @@
+Task 4 - Sentiment Analysis
+
+Objective:
+To analyze user reviews and classify them into Positive, Negative, or Neutral using Natural Language Processing (NLP) and machine learning techniques.
+
+
+Tools Used:
+- Python
+- Pandas
+- Numpy
+- Sklearn (Naive Bayes)
+- NLP (Stopwords, Stemming)
+- CountVectorizer
+- Matplotlib & Seaborn
+
+Project Steps:
+1. Load and clean text data
+2. Preprocess using NLP (lowercase, punctuation removal, stopword removal, stemming)
+3. Convert text to numbers using CountVectorizer
+4. Train a Naive Bayes classifier
+5. Evaluate performance (accuracy, classification report)
+6. Visualize sentiment distribution
+
+Output:
+- Accuracy: ~85%+
+- Graph showing number of Positive/Negative/Neutral reviews
+
+Key Learning:
+- Text cleaning & feature extraction
+- Supervised classification
+- Sentiment insights from real-world reviews

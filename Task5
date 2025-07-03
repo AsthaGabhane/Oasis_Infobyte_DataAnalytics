@@ -1,0 +1,18 @@
+Task 5- Wine Quality Prediction
+
+Objective:
+Predict the quality of red wine based on various chemical properties using classification models.
+Dataset:
+[Wine Quality - Kaggle](https://www.kaggle.com/datasets/yasserh/wine-quality-dataset)
+
+Models Used:
+- Random Forest Classifier
+- Support Vector Classifier (SVC)
+- Stochastic Gradient Descent (SGD)
+
+ Tools:
+Python, Pandas, Scikit-learn, Matplotlib, Seaborn
+
+Output:
+- Accuracy ~70% to 85% depending on model
+- Confusion Matrix and Classification Report

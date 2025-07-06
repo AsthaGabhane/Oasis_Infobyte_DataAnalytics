@@ -1,1 +1,19 @@
-Uploaded the ipynnb and pdf file.
+Task 6 - Fraud Detection
+
+Objective:
+To detect fraudulent credit card transactions using machine learning.
+
+ Dataset:
+[Credit Card Fraud Detection – Kaggle](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
+
+ Tools:
+Python, Pandas, Scikit-learn, Random Forest, Seaborn, Matplotlib
+
+Project Steps:
+- Data exploration & class imbalance analysis
+- Model building with Random Forest
+- Evaluation using a confusion matrix and a classification report
+
+Output:
+- Accuracy: ~99%
+- Classifier handles severe class imbalance
